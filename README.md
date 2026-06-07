@@ -1,4 +1,4 @@
-# Digit Loco-Manipulation for IsaacLab
+# DecoupledLoco-Manipulation: Resolving Reward Interference via Constrained RL andPotential-Based Reward Shaping
 
 This repository provides custom IsaacLab configuration files for Digit loco-manipulation experiments. Users should install IsaacLab separately, then copy these files into the corresponding IsaacLab task directory.
 
@@ -6,28 +6,16 @@ Tested with IsaacLab `2.3.0`.
 
 ## Demo Videos
 
-| Method | Video |
-| --- | --- |
-| Baseline | TODO: add baseline video link or file |
-| DRS | TODO: add DRS video link or file |
-| PBRS | TODO: add PBRS video link or file |
-
-Example format after uploading videos:
-
 ```markdown
-[Baseline](media/videos/baseline.mp4)
-[DRS](media/videos/drs.mp4)
-[PBRS](media/videos/pbrs.mp4)
+[Baseline](RL-2026-Final\media\videos\falcon.webm)
+[DRS](RL-2026-Final\media\videos\drs.webm)
+[PBRS](RL-2026-Final\media\videos\pbrs_test.webm)
 ```
 
 ## Architecture
 
-TODO: add architecture figure here.
-
-Example format after uploading the figure:
-
 ```markdown
-![Architecture](media/architecture.png)
+![Architecture](RL-2026-Final\media\img\architecture.png)
 ```
 
 ## Files
