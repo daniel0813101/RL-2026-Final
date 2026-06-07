@@ -5,18 +5,23 @@ This repository provides custom IsaacLab configuration files for Digit loco-mani
 Tested with IsaacLab `2.3.0`.
 
 ## Demo Videos
+[Baseline]
 
-```markdown
-[Baseline](RL-2026-Final\media\videos\falcon.webm)
-[DRS](RL-2026-Final\media\videos\drs.webm)
-[PBRS](RL-2026-Final\media\videos\pbrs_test.webm)
-```
+[falcon.webm](https://github.com/user-attachments/assets/e05a979d-8388-4121-9ee9-96f74660f2c4)
+
+[DRS]
+
+[drs.webm](https://github.com/user-attachments/assets/58344c5d-0187-4406-894a-092de1558d91)
+
+[PBRS]
+
+[pbrs.webm](https://github.com/user-attachments/assets/3bb90684-fa6d-433e-97d0-fd9c1f4ae993)
+
+
 
 ## Architecture
 
-```markdown
-![Architecture](RL-2026-Final\media\img\architecture.png)
-```
+<img src="media/img/architecture.png" style="width:100%;" />
 
 ## Files
 
